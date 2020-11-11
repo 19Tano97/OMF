@@ -1,0 +1,16 @@
+{
+  "multi_lang": true,
+  "section": "merchant_profile",
+  "it": {
+    "name": "MonteFedele",
+    "description": "L’azienda agricola Montefedele dedita principalmente alla produzione di olio EVO da oltre 60 anni, si estende con un esposizione al sole ottimale verso sud ovest di “Monte Fedele” ,località del borgo storico di Bovino(FG), a circa 500 metri s.l.m. Posizionati sulle dolci colline dei Monti Dauni. Nonché territorio del comprensorio della Denominazione d’ Origine Protetto Dauno (Dauno D.O.P.). L’azienda prevalentemente dedita all’olivicolutara, con un attenzione particolare allo sviluppo di nuove tecnologie, conserva l’ impronta tradizionale dell’ olivicultura Pugliese, tramandata da ben 3 generazione, di padre in figlio, lavorando secondo l’ idea di filiera corta, prestando attenzione all’ esigenze dei propri clienti. I nostri terreni ubicati nel Vallo di Bovino, conosciuto per lo più, dalla sua storia di Nobili e Briganti, con prevalenza di piante secolari posizionati ad una distanza >6mt gli uni dagli altri, ottimale per permettere l’ areazione delle fronde e godere completamente della luce del sole.",
+    "image": "https://raw.githubusercontent.com/Devoleum/OMF/master/imgs/logo.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/Devoleum/OMF/master/imgs/logo_small.jpg"
+  },
+  "en": {
+    "name": "MonteFedele",
+    "description": "The Montefedele farm, which has been mainly dedicated to the production of EVO oil for over 60 years, extends with optimal sun exposure towards the southwest of “Monte Fedele”, a town in the historic village of Bovino (FG), about 500 meters above sea level. Positioned on the gentle hills of the Dauni Mountains. As well as the territory of the area of ​​the Protected Designation of Origin Dauno (Dauno D.O.P.). The company mainly dedicated to olive growing, with particular attention to the development of new technologies, preserves the traditional imprint of the Apulian olive growing, handed down for 3 generations, from father to son, working according to the idea of ​​a short supply chain, paying attention to the needs of its customers. Our land located in the Vallo di Bovino, known for the most part, from its history of Nobles and Brigands, with a prevalence of secular trees positioned at a distance >6 meters from each other, optimal to allow the aeration of the branches and fully enjoy the sunlight.",
+    "image": "https://raw.githubusercontent.com/Devoleum/OMF/master/imgs/logo.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/Devoleum/OMF/master/imgs/logo_small.jpg"
+  }
+}
