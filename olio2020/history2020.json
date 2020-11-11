@@ -5,15 +5,15 @@
   "en": {
     "name": "Montefedele Olive Oil Campaign 2020",
     "description": "100% Apulian EVO oil. Production Extra virgin olive oil produced only from olives owned by us in the town of Montefedele, harvested and pressed within 48 hours.",
-    "image": "https://raw.githubusercontent.com/Devoleum/OMF/master/olio2020/imgs/history2020.jpg",
-    "thumbnail": "https://raw.githubusercontent.com/Devoleum/OMF/master/olio2020/imgs/history2020_small.jpg",
+    "image": "https://raw.githubusercontent.com/Devoleum/OMF/main/olio2020/imgs/history2020.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/Devoleum/OMF/main/olio2020/imgs/history2020_small.jpg",
     "date": "30/10/2020"
   },
   "it": {
     "name": "Montefedele Campagna Olivicola 2020",
     "description": "Olio EVO 100% pugliese. Produzione Olio extravergine di oliva prodotto solo da olive di nostra proprietà nella località di Montefedele raccolte e molite nell’arco di 48h.",
-    "image": "https://raw.githubusercontent.com/Devoleum/OMF/master/olio2020/imgs/history2020.jpg",
-    "thumbnail": "https://raw.githubusercontent.com/Devoleum/OMF/master/olio2020/imgs/history2020_small.jpg",
+    "image": "https://raw.githubusercontent.com/Devoleum/OMF/main/olio2020/imgs/history2020.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/Devoleum/OMF/main/olio2020/imgs/history2020_small.jpg",
     "date": "30/10/2020"
   }
 }
