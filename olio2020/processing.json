@@ -1,0 +1,28 @@
+{
+  "multi_lang": true,
+  "section": "step",
+  "en": {
+    "name": "Processing",
+    "description": "Once harvested, the olives are placed in perforated boxes (for a maximum of 2 days) so as to keep the fruit intact and avoid any mold formation.",
+    "randomValue": "Zo65fv@!x2",
+    "image": "https://raw.githubusercontent.com/Devoleum/OMF/main/olio2020/imgs/processing.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/Devoleum/OMF/main/olio2020/imgs/processing_small.jpg",
+    "date": "31/10/2020"
+  },
+  "it": {
+    "name": "Lavorazione",
+    "description": "Una volta raccolte le olive vengono depositate in cassette forate(per massimo 2 gg) così da mantenere integro il frutto ed evitare l'eventuale formazione di muffe.",
+    "image": "https://raw.githubusercontent.com/Devoleum/OMF/main/olio2020/imgs/processing.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/Devoleum/OMF/main/olio2020/imgs/processing_small.jpg",
+    "randomValue": "Zo65fv@!x2",
+    "date": "31/10/2020"
+  },
+  "fr": {
+    "name": "Étape de travail",
+    "description": "Quand les olives sont récoltées, elles sont gardées dans des caisses perforées (pour un maximum de 2 jours) afin de maintenir intègre le fruit et éviter une éventuelle création de moisissures.",
+    "image": "https://raw.githubusercontent.com/Devoleum/OMF/main/olio2020/imgs/processing.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/Devoleum/OMF/main/olio2020/imgs/processing_small.jpg",
+    "randomValue": "Zo65fv@!x2",
+    "date": "31/10/2020"
+  }
+}

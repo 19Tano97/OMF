@@ -1,0 +1,28 @@
+{
+  "multi_lang": true,
+  "section": "step",
+  "en": {
+    "name": "Transport",
+    "description": "Our olives are pressed in a certified mill, with the classic method and cold extracted (<27 °).",
+    "randomValue": "Z1665fv@!xax2",
+    "image": "https://raw.githubusercontent.com/Devoleum/OMF/main/olio2020/imgs/mil.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/Devoleum/OMF/main/olio2020/imgs/mil_small.jpg",
+    "date": "01/11/2020 H.17.00"
+  },
+  "it": {
+    "name": "Molitura",
+    "description": "Le nostre olive vengono molite in frantoio certificato, con il metodo classico ed estratte a freddo (<27°).",
+    "image": "https://raw.githubusercontent.com/Devoleum/OMF/main/olio2020/imgs/mil.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/Devoleum/OMF/main/olio2020/imgs/mil_small.jpg",
+    "randomValue": "Z1665fv@!xax2",
+    "date": "01/11/2020 H.17.00"
+  },
+  "fr": {
+    "name": "Mouture",
+    "description": "Nos olives sont broyées par le pressoir certifié suivant la méthode classique: extraction à froid (<27°).",
+    "image": "https://raw.githubusercontent.com/Devoleum/OMF/main/olio2020/imgs/mil.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/Devoleum/OMF/main/olio2020/imgs/mil_small.jpg",
+    "randomValue": "Z1665fv@!xax2",
+    "date": "01/11/2020 H.17.00"
+  }
+}

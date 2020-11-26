@@ -1,0 +1,43 @@
+{
+    "multi_lang": true,
+    "section": "step",
+    "en": {
+      "name": "Chemical analysis",
+      "description": "Carried out in a certified laboratory, BIODAUNIA (FOGGIA) on 09/11/2020",
+      "image": "https://raw.githubusercontent.com/Devoleum/OMF/main/olio2020/imgs/chemical.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/Devoleum/OMF/main/olio2020/imgs/chemical_small.jpg",
+      "randomValue": "Z166xhr5fv@!xax2",
+      "date": "09/11/2020",
+      "acidity": "0.2",
+      "peroxides": "3.80",
+      "k232": "1.2",
+      "K270": "0,10",
+      "delta_k": "0.003"
+    },
+    "it": {
+      "name": "Analisi chimiche",
+      "description": "Effettuate in laboratorio certificato, BIODAUNIA (FG) in data 09/11/2020",
+      "image": "https://raw.githubusercontent.com/Devoleum/OMF/main/olio2020/imgs/chemical.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/Devoleum/OMF/main/olio2020/imgs/chemical_small.jpg",
+      "randomValue": "Z166xhr5fv@!xax2",
+      "date": "09/11/2020",
+      "acidità": "0.2",
+      "perossidi": "3.80",
+      "k232": "1.2",
+      "K270": "0,10",
+      "delta_k": "0.003"
+    },
+    "fr": {
+      "name": "Analyses chimiques",
+      "description": "Réalisé dans un laboratoire certifié BIODAUNIA (FG) le 09/11/2020",
+      "image": "https://raw.githubusercontent.com/Devoleum/OMF/main/olio2020/imgs/chemical.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/Devoleum/OMF/main/olio2020/imgs/chemical_small.jpg",
+      "randomValue": "Z1665fv@!xax2",
+      "date": "09/11/2020",
+      "acidité": "0.2",
+      "peroxydes": "3.80",
+      "k232": "1.2",
+      "K270": "0,10",
+      "delta_k": "0.003"
+    }
+  }

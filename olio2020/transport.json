@@ -1,0 +1,28 @@
+{
+  "multi_lang": true,
+  "section": "step",
+  "en": {
+    "name": "Transport",
+    "description": "After less than 2 days the harvested olives are brought into perforated boxes to our oil mill.",
+    "randomValue": "Z1665fv@!x2",
+    "image": "https://raw.githubusercontent.com/Devoleum/OMF/main/olio2020/imgs/transport.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/Devoleum/OMF/main/olio2020/imgs/transport_small.jpg",
+    "date": "01/11/2020 H.16.00"
+  },
+  "it": {
+    "name": "Trasporto",
+    "description": "Dopo meno di 2 giorni le olive raccolte, vengono portate dentro cassette forate al nostro frantoio.",
+    "image": "https://raw.githubusercontent.com/Devoleum/OMF/main/olio2020/imgs/transport.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/Devoleum/OMF/main/olio2020/imgs/transport_small.jpg",
+    "randomValue": "Z1665fv@!x2",
+    "date": "01/11/2020 H.16.00"
+  },
+  "fr": {
+    "name": "Transport ",
+    "description": "Après moins de 2 jours, les olives récoltées sont transportées dans les mêmes caisses perforées chez notre pressoir.",
+    "image": "https://raw.githubusercontent.com/Devoleum/OMF/main/olio2020/imgs/transport.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/Devoleum/OMF/main/olio2020/imgs/transport_small.jpg",
+    "randomValue": "Z1665fv@!x2",
+    "date": "01/11/2020 H.16.00"
+  }
+}
