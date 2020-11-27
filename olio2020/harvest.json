@@ -18,7 +18,7 @@
     "thumbnail": "https://raw.githubusercontent.com/Devoleum/OMF/main/olio2020/imgs/harvest_small.jpg",
     "randomValue": "Zi65fv@!x2",
     "date": "30/10/2020",
-    "method": "a mano / meccanico",
+    "metodo": "a mano / meccanico",
     "cultivar": "Nostrana dei Monti Dauni, Rotondella, Leccino."
   },
   "fr": {
@@ -28,7 +28,7 @@
     "thumbnail": "https://raw.githubusercontent.com/Devoleum/OMF/main/olio2020/imgs/harvest_small.jpg",
     "randomValue": "Zi65fv@!x2",
     "date": "30/10/2020",
-    "method": "a mano / meccanico",
+    "méthode": "a mano / meccanico",
     "cultivar": "Nostrana Monts Dauni, Leccino, Rotondella."
   }
 }
