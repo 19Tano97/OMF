@@ -11,7 +11,7 @@
   },
   "it": {
     "name": "Lavorazione",
-    "description": "Una volta raccolte le olive vengono depositate in cassette forate(per massimo 2 gg) così da mantenere integro il frutto ed evitare l'eventuale formazione di muffe.",
+    "description": "Una volta raccolte le olive vengono depositate in cassette forate (per massimo 2 gg) così da mantenere integro il frutto ed evitare l'eventuale formazione di muffe.",
     "image": "https://raw.githubusercontent.com/Devoleum/OMF/main/olio2020/imgs/processing.jpg",
     "thumbnail": "https://raw.githubusercontent.com/Devoleum/OMF/main/olio2020/imgs/processing_small.jpg",
     "randomValue": "Zo65fv@!x2",
