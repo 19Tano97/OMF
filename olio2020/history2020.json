@@ -7,6 +7,7 @@
     "description": "100% Apulian EVO oil. Production Extra virgin olive oil produced only from olives owned by us in the town of Montefedele, harvested and pressed within 48 hours.",
     "image": "https://raw.githubusercontent.com/Devoleum/OMF/main/olio2020/imgs/history2020.jpg",
     "thumbnail": "https://raw.githubusercontent.com/Devoleum/OMF/main/olio2020/imgs/history2020_small.jpg",
+    "website_url" : "https://oliomontefedele.com,
     "date": "30/10/2020"
   },
   "fr": {
@@ -14,6 +15,7 @@
     "description": "Campagne Oléicole 2020/2021. Production d’Huile Vierge Extra obtenue uniquement d’olives de notre propriété de Monte Fedele, Monts Dauni(FG) récoltées et broyées en 48h.",
     "image": "https://raw.githubusercontent.com/Devoleum/OMF/main/olio2020/imgs/history2020.jpg",
     "thumbnail": "https://raw.githubusercontent.com/Devoleum/OMF/main/olio2020/imgs/history2020_small.jpg",
+    "website_url" : "https://oliomontefedele.com,
     "date": "30/10/2020"
   },
   "it": {
@@ -21,6 +23,7 @@
     "description": "Olio EVO 100% pugliese. Produzione Olio extravergine di oliva prodotto solo da olive di nostra proprietà nella località di Montefedele raccolte e molite nell’arco di 48h.",
     "image": "https://raw.githubusercontent.com/Devoleum/OMF/main/olio2020/imgs/history2020.jpg",
     "thumbnail": "https://raw.githubusercontent.com/Devoleum/OMF/main/olio2020/imgs/history2020_small.jpg",
+    "website_url" : "https://oliomontefedele.com,
     "date": "30/10/2020"
   }
 }
